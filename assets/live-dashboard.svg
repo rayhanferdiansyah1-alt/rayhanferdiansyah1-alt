@@ -42,26 +42,22 @@
       <rect width="216" height="96" rx="16" class="card"/>
       <rect width="4" height="96" rx="2" fill="#fbbf24"/>
       <text x="22" y="31" class="label">CONTRIBUTIONS 2026</text>
-      <text x="22" y="70" class="value">106</text>
+      <text x="22" y="70" class="value">105</text>
     </g>
   <text x="28" y="199" class="label">LANGUAGE DISTRIBUTION ACROSS OWNED PUBLIC REPOSITORIES</text>
   
-            <text x="28" y="227" class="language">HTML</text>
+            <text x="28" y="227" class="language">CSS</text>
             <rect x="180" y="216" width="735" height="12" rx="6" class="track"/>
-            <rect x="180" y="216" width="308.7" height="12" rx="6" fill="#e34c26"/>
-            <text x="972" y="227" text-anchor="end" class="percent">42.0%</text>
-            <text x="28" y="256" class="language">CSS</text>
+            <rect x="180" y="216" width="291.8" height="12" rx="6" fill="#663399"/>
+            <text x="972" y="227" text-anchor="end" class="percent">39.7%</text>
+            <text x="28" y="256" class="language">HTML</text>
             <rect x="180" y="245" width="735" height="12" rx="6" class="track"/>
-            <rect x="180" y="245" width="227.8" height="12" rx="6" fill="#663399"/>
-            <text x="972" y="256" text-anchor="end" class="percent">31.0%</text>
-            <text x="28" y="285" class="language">PHP</text>
+            <rect x="180" y="245" width="254.3" height="12" rx="6" fill="#e34c26"/>
+            <text x="972" y="256" text-anchor="end" class="percent">34.6%</text>
+            <text x="28" y="285" class="language">JavaScript</text>
             <rect x="180" y="274" width="735" height="12" rx="6" class="track"/>
-            <rect x="180" y="274" width="125.0" height="12" rx="6" fill="#4F5D95"/>
-            <text x="972" y="285" text-anchor="end" class="percent">17.0%</text>
-            <text x="28" y="314" class="language">JavaScript</text>
-            <rect x="180" y="303" width="735" height="12" rx="6" class="track"/>
-            <rect x="180" y="303" width="73.5" height="12" rx="6" fill="#f1e05a"/>
-            <text x="972" y="314" text-anchor="end" class="percent">10.0%</text>
+            <rect x="180" y="274" width="188.9" height="12" rx="6" fill="#f1e05a"/>
+            <text x="972" y="285" text-anchor="end" class="percent">25.7%</text>
   <text x="28" y="370" class="footer">Source: GitHub GraphQL API</text>
-  <text x="972" y="370" text-anchor="end" class="footer">Updated 24 Aug 2026 · 17:41 UTC</text>
+  <text x="972" y="370" text-anchor="end" class="footer">Updated 24 Aug 2026 · 18:02 UTC</text>
 </svg>
