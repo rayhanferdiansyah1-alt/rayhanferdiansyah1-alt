@@ -42,7 +42,5 @@
     alt="ChatGPT, Claude, Gemini, and DeepSeek"
   />
 
-  <br /><br />
-
   <sub>Research · System Design · Coding Assistance · Debugging · Documentation</sub>
 </div>
