@@ -29,7 +29,7 @@
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=laravel,mysql,php,js,html,css,linux,git,py&theme=dark&perline=8"
+    src="https://skillicons.dev/icons?i=laravel,mysql,php,js,html,css,linux,git,py&theme=dark&perline=9"
     alt="PHP, Laravel, MySQL, JavaScript, HTML, CSS, Linux, and Git"
   />
 </div>
