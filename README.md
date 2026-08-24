@@ -29,22 +29,8 @@
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=laravel,mysql&theme=dark"
-    alt="Laravel and MySQL"
-  />
-
-  <br /><br />
-
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,php,py&theme=dark"
-    alt="HTML, CSS, JavaScript, PHP, and Python"
-  />
-
-  <br /><br />
-
-  <img
-    src="https://skillicons.dev/icons?i=linux,git&theme=dark"
-    alt="Linux and Git"
+    src="https://skillicons.dev/icons?i=laravel,mysql,php,js,html,css,linux,git,py&theme=dark&perline=8"
+    alt="PHP, Laravel, MySQL, JavaScript, HTML, CSS, Linux, and Git"
   />
 </div>
 
