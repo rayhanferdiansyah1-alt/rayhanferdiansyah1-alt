@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub engineering signal for rayhanferdiansyah1-alt</title>
+  <desc id="desc">Public repositories, stars, followers, yearly contributions, and top languages.</desc>
+  <style>
+    .surface { fill: #0b1220; stroke: #25324a; }
+    .card { fill: #111b2e; stroke: #25324a; }
+    .title { fill: #f8fafc; font: 700 18px Inter,Segoe UI,Arial,sans-serif; }
+    .subtitle,.label,.percent,.footer { fill: #8da2bf; font-family: Inter,Segoe UI,Arial,sans-serif; }
+    .subtitle { font-size: 12px; } .label { font-size: 11px; font-weight: 700; letter-spacing: 1px; }
+    .value { fill: #f8fafc; font: 800 30px Inter,Segoe UI,Arial,sans-serif; }
+    .language { fill: #dbe7f6; font: 600 13px Inter,Segoe UI,Arial,sans-serif; }
+    .percent { font-size: 12px; } .footer { font-size: 10px; } .track { fill: #1e293b; }
+    @media (prefers-color-scheme: light) {
+      .surface { fill: #f8fafc; stroke: #d8e0eb; } .card { fill: #ffffff; stroke: #d8e0eb; }
+      .title,.value { fill: #0f172a; } .subtitle,.label,.percent,.footer { fill: #64748b; }
+      .language { fill: #24324a; } .track { fill: #e5eaf1; }
+    }
+  </style>
+  <rect x="1" y="1" width="998" height="388" rx="20" class="surface"/>
+  <text x="28" y="34" class="title">LIVE ENGINEERING SIGNAL</text>
+  <text x="972" y="34" text-anchor="end" class="subtitle">SELF-UPDATING · NO THIRD-PARTY STATS SERVICE</text>
+  
+    <g transform="translate(28 72)">
+      <rect width="216" height="96" rx="16" class="card"/>
+      <rect width="4" height="96" rx="2" fill="#2dd4bf"/>
+      <text x="22" y="31" class="label">PUBLIC REPOS</text>
+      <text x="22" y="70" class="value">3</text>
+    </g>
+    <g transform="translate(264 72)">
+      <rect width="216" height="96" rx="16" class="card"/>
+      <rect width="4" height="96" rx="2" fill="#60a5fa"/>
+      <text x="22" y="31" class="label">STARS EARNED</text>
+      <text x="22" y="70" class="value">0</text>
+    </g>
+    <g transform="translate(500 72)">
+      <rect width="216" height="96" rx="16" class="card"/>
+      <rect width="4" height="96" rx="2" fill="#a78bfa"/>
+      <text x="22" y="31" class="label">FOLLOWERS</text>
+      <text x="22" y="70" class="value">2</text>
+    </g>
+    <g transform="translate(736 72)">
+      <rect width="216" height="96" rx="16" class="card"/>
+      <rect width="4" height="96" rx="2" fill="#fbbf24"/>
+      <text x="22" y="31" class="label">CONTRIBUTIONS 2026</text>
+      <text x="22" y="70" class="value">106</text>
+    </g>
+  <text x="28" y="199" class="label">LANGUAGE DISTRIBUTION ACROSS OWNED PUBLIC REPOSITORIES</text>
+  
+            <text x="28" y="227" class="language">HTML</text>
+            <rect x="180" y="216" width="735" height="12" rx="6" class="track"/>
+            <rect x="180" y="216" width="308.7" height="12" rx="6" fill="#e34c26"/>
+            <text x="972" y="227" text-anchor="end" class="percent">42.0%</text>
+            <text x="28" y="256" class="language">CSS</text>
+            <rect x="180" y="245" width="735" height="12" rx="6" class="track"/>
+            <rect x="180" y="245" width="227.8" height="12" rx="6" fill="#663399"/>
+            <text x="972" y="256" text-anchor="end" class="percent">31.0%</text>
+            <text x="28" y="285" class="language">PHP</text>
+            <rect x="180" y="274" width="735" height="12" rx="6" class="track"/>
+            <rect x="180" y="274" width="125.0" height="12" rx="6" fill="#4F5D95"/>
+            <text x="972" y="285" text-anchor="end" class="percent">17.0%</text>
+            <text x="28" y="314" class="language">JavaScript</text>
+            <rect x="180" y="303" width="735" height="12" rx="6" class="track"/>
+            <rect x="180" y="303" width="73.5" height="12" rx="6" fill="#f1e05a"/>
+            <text x="972" y="314" text-anchor="end" class="percent">10.0%</text>
+  <text x="28" y="370" class="footer">Source: GitHub GraphQL API</text>
+  <text x="972" y="370" text-anchor="end" class="footer">Updated 24 Aug 2026 · 17:41 UTC</text>
+</svg>

@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Rayhan Ferdiansyah Mardani — Systems Builder</title>
+  <desc id="desc">A futuristic systems command interface representing systems analysis, data intelligence, databases, and digital delivery.</desc>
+
+  <defs>
+    <clipPath id="frame">
+      <rect width="1200" height="400" rx="28"/>
+    </clipPath>
+
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.46" stop-color="#071225"/>
+      <stop offset="1" stop-color="#0d1021"/>
+    </linearGradient>
+
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.52" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#164e63"/>
+      <stop offset="0.5" stop-color="#312e81"/>
+      <stop offset="1" stop-color="#701a75"/>
+    </linearGradient>
+
+    <radialGradient id="cyanGlow">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="violetGlow">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="microGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#94a3b8" stroke-opacity=".065" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1" fill="#cbd5e1" fill-opacity=".12"/>
+    </pattern>
+
+    <filter id="blur24" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="url(#background)"/>
+    <rect width="1200" height="400" fill="url(#microGrid)"/>
+
+    <ellipse cx="180" cy="410" rx="330" ry="185" fill="url(#cyanGlow)" filter="url(#blur24)"/>
+    <ellipse cx="1040" cy="72" rx="300" ry="210" fill="url(#violetGlow)" filter="url(#blur24)"/>
+
+    <g opacity=".16" fill="none" stroke="#94a3b8">
+      <path d="M610 400 866 0M700 400 912 0M790 400 959 0M880 400 1005 0M970 400 1052 0M1060 400 1098 0M1150 400 1145 0"/>
+      <path d="M590 345h610M623 292h577M657 245h543M689 203h511M719 166h481M746 132h454M771 101h429"/>
+    </g>
+
+    <g opacity=".26" fill="#91a4c2" font-family="Consolas,Menlo,monospace" font-size="9" letter-spacing="1.5">
+      <text x="625" y="31">01100101 / SYSTEM.INPUT</text>
+      <text x="625" y="47">10010110 / DATA.VALIDATE</text>
+      <text x="625" y="63">00111001 / LOGIC.EXECUTE</text>
+      <text x="1050" y="376">RFM.SYS // 7.017°</text>
+    </g>
+
+    <rect x="0" y="0" width="1200" height="4" fill="url(#spectrum)"/>
+    <rect x="0.5" y="0.5" width="1199" height="399" rx="27.5" fill="none" stroke="#64748b" stroke-opacity=".42"/>
+
+    <g transform="translate(68 28)" font-family="Inter,Segoe UI,Arial,sans-serif">
+      <rect width="251" height="31" rx="15.5" fill="#081522" stroke="#22d3ee" stroke-opacity=".54"/>
+      <circle cx="17" cy="15.5" r="5" fill="#34d399" filter="url(#glow)"/>
+      <text x="31" y="20.5" fill="#a7f3d0" font-size="11" font-weight="800" letter-spacing="1.65">SYSTEM ONLINE  //  UTC+7</text>
+    </g>
+
+    <g transform="translate(68 129)" font-family="Inter,Segoe UI,Arial,sans-serif">
+      <text fill="#f8fafc" font-size="76" font-weight="900" letter-spacing="-3.2">RAYHAN</text>
+      <text y="58" fill="#c9d7ea" font-size="39" font-weight="750" letter-spacing="-.8">FERDIANSYAH MARDANI</text>
+      <rect y="81" width="550" height="4" rx="2" fill="url(#spectrum)"/>
+      <rect y="81" width="132" height="4" rx="2" fill="#67e8f9" filter="url(#glow)"/>
+      <text y="119" fill="#8fa5c2" font-size="15" font-weight="650" letter-spacing="2.2">SYSTEMS BUILDER  ×  DATA THINKER</text>
+    </g>
+
+    <g transform="translate(68 274)" font-family="Inter,Segoe UI,Arial,sans-serif">
+      <g>
+        <rect width="122" height="42" rx="10" fill="#0b1a2a" stroke="#22d3ee" stroke-opacity=".45"/>
+        <text x="15" y="16" fill="#67e8f9" font-size="8" font-weight="800" letter-spacing="1.25">01 / ANALYZE</text>
+        <text x="15" y="31" fill="#d9e8f5" font-size="10.5" font-weight="650">Business Logic</text>
+      </g>
+      <g transform="translate(134)">
+        <rect width="122" height="42" rx="10" fill="#11172c" stroke="#818cf8" stroke-opacity=".5"/>
+        <text x="15" y="16" fill="#a5b4fc" font-size="8" font-weight="800" letter-spacing="1.25">02 / MODEL</text>
+        <text x="15" y="31" fill="#d9e8f5" font-size="10.5" font-weight="650">Data Structure</text>
+      </g>
+      <g transform="translate(268)">
+        <rect width="122" height="42" rx="10" fill="#17132a" stroke="#c084fc" stroke-opacity=".48"/>
+        <text x="15" y="16" fill="#d8b4fe" font-size="8" font-weight="800" letter-spacing="1.25">03 / BUILD</text>
+        <text x="15" y="31" fill="#d9e8f5" font-size="10.5" font-weight="650">Reliable Systems</text>
+      </g>
+      <g transform="translate(402)">
+        <rect width="122" height="42" rx="10" fill="#1c1224" stroke="#f472b6" stroke-opacity=".46"/>
+        <text x="15" y="16" fill="#f9a8d4" font-size="8" font-weight="800" letter-spacing="1.25">04 / PROVE</text>
+        <text x="15" y="31" fill="#d9e8f5" font-size="10.5" font-weight="650">Measured Impact</text>
+      </g>
+    </g>
+
+    <g transform="translate(68 338)" font-family="Inter,Segoe UI,Arial,sans-serif">
+      <text fill="#f8fafc" font-size="13" font-weight="800" letter-spacing="1.9">TURNING COMPLEXITY INTO CONTROL.</text>
+      <path d="M0 22h549" stroke="#334155"/>
+      <path d="M0 22h156" stroke="url(#spectrum)" stroke-width="2"/>
+      <text x="430" y="41" fill="#62738e" font-size="8" letter-spacing="1.6">INDONESIA // 2026</text>
+    </g>
+
+    <g transform="translate(946 193)" font-family="Inter,Segoe UI,Arial,sans-serif">
+      <circle r="142" fill="none" stroke="#334155" stroke-opacity=".65"/>
+      <circle r="118" fill="none" stroke="#64748b" stroke-opacity=".35" stroke-dasharray="3 9"/>
+      <circle r="91" fill="none" stroke="url(#spectrum)" stroke-opacity=".72" stroke-width="1.5"/>
+      <circle r="69" fill="url(#core)" fill-opacity=".72" stroke="#a5b4fc" stroke-opacity=".66"/>
+      <circle r="51" fill="#050b17" stroke="#22d3ee" stroke-opacity=".52"/>
+      <circle r="45" fill="none" stroke="#818cf8" stroke-opacity=".27" stroke-dasharray="2 6"/>
+
+      <path d="M-167 0h334M0-167v334" stroke="#64748b" stroke-opacity=".25"/>
+      <path d="M-101-101 101 101M101-101-101 101" stroke="#64748b" stroke-opacity=".12"/>
+
+      <g filter="url(#glow)">
+        <circle cx="-89" cy="-77" r="5" fill="#22d3ee"/>
+        <circle cx="103" cy="-57" r="5" fill="#818cf8"/>
+        <circle cx="76" cy="103" r="5" fill="#f472b6"/>
+        <circle cx="-123" cy="52" r="4" fill="#34d399"/>
+      </g>
+
+      <path d="M-89-77-43-40M103-57 46-28M76 103 36 47M-123 52-48 21" fill="none" stroke="#94a3b8" stroke-opacity=".5"/>
+
+      <text y="12" text-anchor="middle" fill="#f8fafc" font-size="48" font-weight="900" letter-spacing="-3">RF</text>
+      <text y="84" text-anchor="middle" fill="#a5b4fc" font-size="8" font-weight="800" letter-spacing="2.2">SYSTEMS CORE</text>
+
+      <g fill="#7f94b2" font-size="8" font-weight="700" letter-spacing="1.2">
+        <text x="-151" y="-117">INPUT</text>
+        <text x="112" y="-102">LOGIC</text>
+        <text x="119" y="118">OUTPUT</text>
+        <text x="-158" y="123">DATA</text>
+      </g>
+    </g>
+
+    <g fill="#94a3b8" opacity=".7" font-family="Consolas,Menlo,monospace" font-size="8">
+      <text x="1131" y="34">X.1200</text>
+      <text x="1131" y="48">Y.0400</text>
+      <text x="1131" y="62">V.02.0</text>
+    </g>
+  </g>
+</svg>
