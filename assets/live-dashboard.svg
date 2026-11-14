@@ -42,30 +42,30 @@
       <rect width="216" height="96" rx="16" class="card"/>
       <rect width="4" height="96" rx="2" fill="#fbbf24"/>
       <text x="22" y="31" class="label">CONTRIBUTIONS 2026</text>
-      <text x="22" y="70" class="value">125</text>
+      <text x="22" y="70" class="value">128</text>
     </g>
   <text x="28" y="199" class="label">LANGUAGE DISTRIBUTION ACROSS OWNED PUBLIC REPOSITORIES</text>
   
             <text x="28" y="227" class="language">CSS</text>
             <rect x="180" y="216" width="735" height="12" rx="6" class="track"/>
-            <rect x="180" y="216" width="247.0" height="12" rx="6" fill="#663399"/>
-            <text x="972" y="227" text-anchor="end" class="percent">33.6%</text>
-            <text x="28" y="256" class="language">HTML</text>
+            <rect x="180" y="216" width="207.3" height="12" rx="6" fill="#663399"/>
+            <text x="972" y="227" text-anchor="end" class="percent">28.2%</text>
+            <text x="28" y="256" class="language">Dart</text>
             <rect x="180" y="245" width="735" height="12" rx="6" class="track"/>
-            <rect x="180" y="245" width="203.6" height="12" rx="6" fill="#e34c26"/>
-            <text x="972" y="256" text-anchor="end" class="percent">27.7%</text>
-            <text x="28" y="285" class="language">JavaScript</text>
+            <rect x="180" y="245" width="199.9" height="12" rx="6" fill="#00B4AB"/>
+            <text x="972" y="256" text-anchor="end" class="percent">27.2%</text>
+            <text x="28" y="285" class="language">HTML</text>
             <rect x="180" y="274" width="735" height="12" rx="6" class="track"/>
-            <rect x="180" y="274" width="172.7" height="12" rx="6" fill="#f1e05a"/>
-            <text x="972" y="285" text-anchor="end" class="percent">23.5%</text>
-            <text x="28" y="314" class="language">Dart</text>
+            <rect x="180" y="274" width="171.3" height="12" rx="6" fill="#e34c26"/>
+            <text x="972" y="285" text-anchor="end" class="percent">23.3%</text>
+            <text x="28" y="314" class="language">JavaScript</text>
             <rect x="180" y="303" width="735" height="12" rx="6" class="track"/>
-            <rect x="180" y="303" width="97.8" height="12" rx="6" fill="#00B4AB"/>
-            <text x="972" y="314" text-anchor="end" class="percent">13.3%</text>
+            <rect x="180" y="303" width="144.8" height="12" rx="6" fill="#f1e05a"/>
+            <text x="972" y="314" text-anchor="end" class="percent">19.7%</text>
             <text x="28" y="343" class="language">Python</text>
             <rect x="180" y="332" width="735" height="12" rx="6" class="track"/>
-            <rect x="180" y="332" width="14.7" height="12" rx="6" fill="#3572A5"/>
-            <text x="972" y="343" text-anchor="end" class="percent">2.0%</text>
+            <rect x="180" y="332" width="11.8" height="12" rx="6" fill="#3572A5"/>
+            <text x="972" y="343" text-anchor="end" class="percent">1.6%</text>
   <text x="28" y="370" class="footer">Source: GitHub GraphQL API</text>
-  <text x="972" y="370" text-anchor="end" class="footer">Updated 13 Nov 2026 · 06:44 UTC</text>
+  <text x="972" y="370" text-anchor="end" class="footer">Updated 14 Nov 2026 · 06:21 UTC</text>
 </svg>
