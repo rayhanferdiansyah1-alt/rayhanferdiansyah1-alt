@@ -34,13 +34,5 @@
   />
 </div>
 
-## AI-Augmented Workflow
-
-<div align="center">
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,deepseek&theme=dark"
-    alt="ChatGPT, Claude, Gemini, and DeepSeek"
-  />
-
   <sub>Research · System Design · Coding Assistance · Debugging · Documentation</sub>
 </div>
